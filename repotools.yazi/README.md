@@ -18,7 +18,7 @@ The default tools are:
 ### Using `ya pkg`
 
 ```
- ya pkg add https://git.penryu.dev/penryu/yazi-plugins:repotools
+ ya pkg add penryu/yazi-plugins:repotools
 ```
 
 
